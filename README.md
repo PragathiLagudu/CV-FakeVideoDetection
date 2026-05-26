@@ -227,7 +227,7 @@ using:
 
 ## 📄 Report
 
-Detailed explanation, methodology, experiments, and results are available in:
+Detailed explanation, methodology, experiments and results are available in:
 
 ```text
 Report.pdf
